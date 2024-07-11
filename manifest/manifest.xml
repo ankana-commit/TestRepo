@@ -4,9 +4,7 @@
         <members>*</members>
         <name>ApexClass</name>
         <members>*</members>
-        <name>AuraDefinitionBundle</name>
-        <members>*</members>
-        <name>LightningComponentBundle</name>
+        <name>objects</name>
     </types>
     <version>61.0</version>
 </Package>
